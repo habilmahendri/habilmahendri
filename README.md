@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://user-images.githubusercontent.com/34161835/63206351-e4793e80-c0dc-11e9-886a-87141bb3fd64.jpg" width="250">
+
 <!--
 **habilmahendri/habilmahendri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
